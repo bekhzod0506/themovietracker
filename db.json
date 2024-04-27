@@ -1,0 +1,130 @@
+{
+    "movies": [
+        {
+        "id": 1,
+        "image": "../../../assets/Images/houseofthedragon.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "House of the Dragon"
+        },
+        {
+        "id": 2,
+        "image": "../../../assets/Images/joker.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Joker"
+        },
+        {
+        "id": 3,
+        "image": "../../../assets/Images/inception.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Inception"
+        },
+        {
+        "id": 4,
+        "image": "../../../assets/Images/suicidesquad.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Suicide squad"
+        },
+        {
+        "id": 5,
+        "image": "../../../assets/Images/starwars.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Star Wars"
+        },
+        {
+        "id": 6,
+        "image": "../../../assets/Images/houseofthedragon.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "House of the Dragon"
+        },
+        {
+        "id": 7,
+        "image": "../../../assets/Images/houseofthedragon.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "House of the Dragon"
+        },
+        {
+        "id": 8,
+        "image": "../../../assets/Images/joker.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Joker"
+        },
+        {
+        "id": 9,
+        "image": "../../../assets/Images/inception.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Inception"
+        },
+        {
+        "id": 10,
+        "image": "../../../assets/Images/suicidesquad.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Suicide squad"
+        },
+        {
+        "id": 11,
+        "image": "../../../assets/Images/starwars.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Star Wars"
+        },
+        {
+        "id": 12,
+        "image": "../../../assets/Images/houseofthedragon.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "House of the Dragon"
+        },
+        {
+        "id": 13,
+        "image": "../../../assets/Images/houseofthedragon.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "House of the Dragon"
+        },
+        {
+        "id": 14,
+        "image": "../../../assets/Images/joker.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Joker"
+        },
+        {
+        "id": 15,
+        "image": "../../../assets/Images/inception.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Inception"
+        },
+        {
+        "id": 16,
+        "image": "../../../assets/Images/suicidesquad.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Suicide squad"
+        },
+        {
+        "id": 17,
+        "image": "../../../assets/Images/starwars.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "Star Wars"
+        },
+        {
+        "id": 18,
+        "image": "../../../assets/Images/houseofthedragon.jpg",
+        "icon": "../../../assets/Images/star-icon.svg",
+        "rate": 8.7,
+        "movieTitle": "House of the Dragon"
+        }
+    ]
+}

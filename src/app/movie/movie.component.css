@@ -1,0 +1,52 @@
+
+.movie {
+    position: relative;
+    text-align: center;
+    width: 90%;
+    padding: 0 0 10px 0;
+
+    z-index: 10;
+    transition: all ease-in-out 0.4s;
+}
+
+.movie:hover {
+    scale: 1.1;
+}
+.movie img {
+    height: 85%;
+    width: 100%;
+    border-radius: 18px;
+    object-fit: cover;
+}
+.movie .movie-score{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 10;
+}
+
+.movie-score .rate {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 600;
+    position: absolute;
+    top: 2px;
+    left: 30px;
+}
+.movie-score img svg path {
+    fill: #F5CF28;
+}
+
+.movie-title {
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+
+/* RWD */
+
+@media only screen and (max-width: 768px) {
+    .movie {
+        width: 90%;
+    }
+}
