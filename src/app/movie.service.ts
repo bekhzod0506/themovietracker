@@ -8,7 +8,7 @@ export class MovieService {
   /**
    * 
    */
-  private url = 'http://localhost:3000/movies';
+  private url = 'https://my-json-server.typicode.com/bekhzod0506/themovietracker/movies';
 
   constructor(private httpClient: HttpClient) {}
 
